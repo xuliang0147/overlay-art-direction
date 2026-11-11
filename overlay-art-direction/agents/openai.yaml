@@ -1,0 +1,4 @@
+interface:
+  display_name: "贴片设计与审美"
+  short_description: "从画面主体、字形和空间关系出发，为不同项目设计贴片、比较方向和评图改稿"
+  default_prompt: "请用 $overlay-art-direction 看这张画面，指出观众第一眼会看哪里，再按本项目的文案和场景给出贴片设计。"

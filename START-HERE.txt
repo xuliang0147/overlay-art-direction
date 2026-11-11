@@ -1,0 +1,11 @@
+贴片设计与审美 · Codex Skill
+
+解压后，把整个 overlay-art-direction 文件夹放到自己项目的 .agents/skills/ 目录下。放好后，应当能看到 .agents/skills/overlay-art-direction/SKILL.md。在 Codex 里打开该项目并新建聊天。
+
+附上你自己的画面和文案，用下面这句话开始：
+
+请用 $overlay-art-direction 看这张图。我的观众首先应该看到【主体或动作】，贴片文案是【准确文字】。请在同一张底图上出两种不同构图的预览，并说明各自更适合哪种观看重点。
+
+如果已经有稿，也可以直接说：
+
+请用 $overlay-art-direction 评这张稿。指出最影响第一眼阅读的一处，告诉我改哪里、为什么，以及改完该看哪里验证。先只评图。
